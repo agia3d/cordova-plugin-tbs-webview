@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
         xmlns:android="http://schemas.android.com/apk/res/android"
-        id="cordova-plugin-tbs-webview"
+        id="cordova-plugin-tbs-webview-a3d"
         version="0.1.3">
 
     <name>TBS WebView</name>
@@ -20,7 +20,7 @@
         <config-file target="res/xml/config.xml" parent="/*">
             <preference name="webView" value="org.apache.cordova.x5engine.X5WebViewEngine"/>
             <preference name="appUserAgent" value="x5webview"/>
-            <preference name="android-minSdkVersion" value="15" />
+            <preference name="android-minSdkVersion" value="19" />
 	        <allow-navigation href="*" />
         </config-file>
 
