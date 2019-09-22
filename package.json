@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/agia3d/cordova-plugin-tbs-webview.git"
+    "url": "git+https://github.com/agia3d/cordova-plugin-tbs-webview-a3d.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -21,9 +21,9 @@
   "author": "liuxiaoy",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/agia3d/cordova-plugin-tbs-webview/issues"
+    "url": "https://github.com/agia3d/cordova-plugin-tbs-webview-a3d/issues"
   },
-  "homepage": "https://github.com/agia3d/cordova-plugin-tbs-webview",
+  "homepage": "https://github.com/agia3d/cordova-plugin-tbs-webview-a3d",
   "engines": [
     {
       "name": "cordova-android",
